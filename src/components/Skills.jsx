@@ -30,7 +30,7 @@ const Skills = () => {
                     place-items-center  '> 
 
         <h2 className="text-white text-xl md:text-4xl font-bold m-4">
-            My <br /> Skills : <br />  
+            My <br />  Skills : <br />  
         </h2>
 
         <div className="flex flex-col items-center m-4 sm:my-0 w-[80px] md-w-[100px]">
@@ -111,7 +111,7 @@ const Skills = () => {
         <div className="flex flex-col items-center m-4 sm:my-0 w-[80px] md-w-[100px]">
             <img src={github} alt="github" width={100} height={100} />
             <p className='mt-2'>Github </p>
-        </div>
+        </div> 
 
         <div className="flex flex-col items-center m-4 sm:my-0 w-[80px] md-w-[100px]">
             <img src={photoshop} alt="photoshop" width={100} height={100} />
