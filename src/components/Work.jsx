@@ -84,7 +84,7 @@ const Work = () => {
           <img src={projectWp2} alt="HBI Web Site" />
 
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
-                          justify-center items-center">
+                          justify-center items-center" >
             <span className="text-2xl font-bold text-white tracking-wider"> HBI Web Site</span>
               <div className="pt-8 text-center">
                 <a href="https://hbimprovement.com/" target="_blank" rel="noopener noreferrer" >
