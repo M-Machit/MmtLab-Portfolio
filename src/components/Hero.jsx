@@ -45,14 +45,14 @@ const Hero = () => {
               bg-gradient-to-br from-yellow-400 to-red-600 text-white'>
                 Download CV
               </a>
-              <a href="#conatct" className='px-6 py-3 w-full rounded-xl 
+              <a href="#contact" className='px-6 py-3 w-full rounded-xl 
               border border-gray-400 hover:bg-gradient-to-br from-yellow-400 to-red-600 text-white hover:border-none'>
                 Contact
               </a>
 
           </div>
             <div className='text-white  sm:text-lg my-6 lg:text-4xl flex space-x-4 '>
-                <a href="#" className=' '> <AiFillInstagram /> </a>
+                <a href="" className=' '> <AiFillInstagram /> </a>
                 <a href="#"> <AiFillGithub /> </a>
                 <a href="#"> <AiFillLinkedin /> </a>
 

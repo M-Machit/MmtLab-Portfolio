@@ -129,7 +129,7 @@ const Work = () => {
 
          <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
          shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
-         h-[220px] bg-cover relative "> 
+         h-[180px] bg-cover relative "> 
 
          
           <img src={projectCp1} alt="MERN Social Media App" />
@@ -150,7 +150,7 @@ const Work = () => {
 
          <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
          shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
-         h-[220px] bg-cover relative "> 
+         h-[180px] bg-cover relative "> 
           <img src={projectCp3} alt="React Candy Crush Game" />
 
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
@@ -168,7 +168,7 @@ const Work = () => {
 
          <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
          shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
-         h-[220px]  bg-cover bg-white relative "> 
+         h-[180px]  bg-cover relative "> 
           <img src={projectCp2} alt="Laravel Crud" />
 
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
