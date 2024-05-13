@@ -10,7 +10,7 @@ const Hero = () => {
 
         <div className="col-span-1 my-auto mx-auto w-[300px] h-auto lg:w-[400px] ">
 
-              <img  className='rounded-full  bg-blue-500 shadow-lg shadow-blue-500' src={heroimage} alt=" hero image" />
+              <img  className='rounded-full  shadow-lg shadow-[#31B7C2]' src={heroimage} alt=" hero image" />
 
         </div>
         <div className="col-span-2 px-5">
@@ -37,27 +37,22 @@ const Hero = () => {
           </h1>
 
           <p className="text-white sm:text-lg my-6 lg:text-xl">
-            I'm a creative Web Developer and Graphic Designer based in Morocco
+          I'm a skilled web developer and graphic designer who specializes in creating captivating online experiences.
+          I also have expertise in crafting effective Facebook and TikTok ad campaigns that deliver results.
           </p>
 
           <div className="my-8">
-              <a href="/" className='px-6 py-3 w-full rounded-xl mr-4
-              bg-gradient-to-br from-yellow-400 to-red-600 text-white'>
-                Download CV
-              </a>
+              
               <a href="#contact" className='px-6 py-3 w-full rounded-xl 
-              border border-gray-400 hover:bg-gradient-to-br from-yellow-400 to-red-600 text-white hover:border-none'>
-                Contact
+              border border-gray-400 hover:bg-gradient-to-br from-[#31B7C2] to-[#7BC393] text-white hover:border-none'>
+                Get in Touch
               </a>
 
           </div>
             <div className='text-white  sm:text-lg my-6 lg:text-4xl flex space-x-4 '>
-                <a href="" className=' '> <AiFillInstagram /> </a>
-                <a href="#"> <AiFillGithub /> </a>
-                <a href="#"> <AiFillLinkedin /> </a>
-
-                
-
+                <a href="https://www.linkedin.com/in/mohammed-machit-94605422b/" target='_blank' className='text-4xl'>  <AiFillLinkedin /></a>
+                <a href="https://github.com/M-Machit" target='_blnak' className='text-4xl'> <AiFillGithub /> </a>
+                <a href="https://www.instagram.com/simo.machit_01?igsh=cWZrdWVjdHR4Nmpi" target='_blank' className='text-4xl' > <AiFillInstagram /> </a>
             </div>
         </div>
       

@@ -297,6 +297,160 @@ const Work = () => {
       </div>
 
 
+      <h1 className='text-gray-400  font-extrabold my-4'> Social Media Posts : </h1>
+      
+      <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4 ">
+
+      <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[380px] bg-cover relative "> 
+         
+          <img src={post1} alt="Social Media Post" />
+  
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
+              
+          </div>
+         </div>
+
+
+         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[380px] bg-cover relative "> 
+         
+          <img src={post2} alt="Social Media Post" />
+  
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post  </span>
+              
+          </div>
+         </div>
+
+         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[380px] bg-cover relative "> 
+         
+          <img src={post3} alt="Social Media Post" />
+  
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
+              
+          </div>
+         </div>
+
+         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[380px] bg-cover relative "> 
+         
+          <img src={post4} alt="Social Media Post" />
+  
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
+              
+          </div>
+         </div>
+
+         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[380px] bg-cover relative "> 
+         
+          <img src={post5} alt="Social Media Post" />
+  
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
+              
+          </div>
+         </div>
+
+         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[380px] bg-cover relative "> 
+         
+          <img src={post6} alt="Social Media Post" />
+  
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
+              
+          </div>
+         </div>
+
+         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[380px] bg-cover relative "> 
+         
+          <img src={post7} alt="Social Media Post" />
+  
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
+              
+          </div>
+         </div>
+
+         
+
+         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[380px] bg-cover relative "> 
+         
+          <img src={post9} alt="Social Media Post" />
+  
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
+              
+          </div>
+         </div>
+
+         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[380px] bg-cover relative "> 
+         
+          <img src={post10} alt="Social Media Post" />
+  
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
+              
+          </div>
+         </div>
+
+         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[380px] bg-cover relative "> 
+         
+          <img src={post8} alt="Social Media Post" />
+  
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
+              
+          </div>
+         </div>
+
+         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[380px] bg-cover relative "> 
+         
+          <img src={post11} alt="Social Media Post" />
+  
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
+              
+          </div>
+         </div>
+      </div>
+
+      
+
+
       <div className="pb-8">
         
       </div>
@@ -449,154 +603,7 @@ const Work = () => {
 
 
 
-      <h1 className='text-gray-400  font-extrabold my-4'> Social Media Posts : </h1>
       
-      <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4 ">
-
-      <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
-         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
-         h-[380px] bg-cover relative "> 
-         
-          <img src={post1} alt="Social Media Post" />
-  
-          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
-                          justify-center items-center">
-            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
-              
-          </div>
-         </div>
-
-
-         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
-         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
-         h-[380px] bg-cover relative "> 
-         
-          <img src={post2} alt="Social Media Post" />
-  
-          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
-                          justify-center items-center">
-            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post  </span>
-              
-          </div>
-         </div>
-
-         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
-         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
-         h-[380px] bg-cover relative "> 
-         
-          <img src={post3} alt="Social Media Post" />
-  
-          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
-                          justify-center items-center">
-            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
-              
-          </div>
-         </div>
-
-         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
-         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
-         h-[380px] bg-cover relative "> 
-         
-          <img src={post4} alt="Social Media Post" />
-  
-          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
-                          justify-center items-center">
-            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
-              
-          </div>
-         </div>
-
-         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
-         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
-         h-[380px] bg-cover relative "> 
-         
-          <img src={post5} alt="Social Media Post" />
-  
-          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
-                          justify-center items-center">
-            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
-              
-          </div>
-         </div>
-
-         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
-         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
-         h-[380px] bg-cover relative "> 
-         
-          <img src={post6} alt="Social Media Post" />
-  
-          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
-                          justify-center items-center">
-            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
-              
-          </div>
-         </div>
-
-         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
-         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
-         h-[380px] bg-cover relative "> 
-         
-          <img src={post7} alt="Social Media Post" />
-  
-          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
-                          justify-center items-center">
-            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
-              
-          </div>
-         </div>
-
-         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
-         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
-         h-[380px] bg-cover relative "> 
-         
-          <img src={post8} alt="Social Media Post" />
-  
-          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
-                          justify-center items-center">
-            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
-              
-          </div>
-         </div>
-
-         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
-         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
-         h-[380px] bg-cover relative "> 
-         
-          <img src={post9} alt="Social Media Post" />
-  
-          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
-                          justify-center items-center">
-            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
-              
-          </div>
-         </div>
-
-         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
-         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
-         h-[380px] bg-cover relative "> 
-         
-          <img src={post10} alt="Social Media Post" />
-  
-          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
-                          justify-center items-center">
-            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
-              
-          </div>
-         </div>
-
-         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
-         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
-         h-[380px] bg-cover relative "> 
-         
-          <img src={post11} alt="Social Media Post" />
-  
-          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
-                          justify-center items-center">
-            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post </span>
-              
-          </div>
-         </div>
-      </div>
 
 
      
