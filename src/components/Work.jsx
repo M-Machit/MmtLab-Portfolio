@@ -36,6 +36,10 @@ import post8 from '../assets/project/Design Projects/Posts (8).webp'
 import post9 from '../assets/project/Design Projects/Posts (9).webp'
 import post10 from '../assets/project/Design Projects/Posts (10).webp'
 import post11 from '../assets/project/Design Projects/Posts (11).webp'
+import post12 from '../assets/project/Design Projects/Posts (12).webp'
+import post13 from '../assets/project/Design Projects/Posts (13).webp'
+import post14 from '../assets/project/Design Projects/Posts (14).webp'
+
 
 import art1 from '..//assets/project/Design Projects/Wall-Art-Mockup-1.webp'
 import art2 from '..//assets/project/Design Projects/Wall-Art-Mockup-2.webp'
@@ -327,6 +331,46 @@ const Work = () => {
               
           </div>
          </div>
+
+         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[380px] bg-cover relative "> 
+         
+          <img src={post13} alt="Social Media Post"/>
+  
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post  </span>
+              
+          </div>
+         </div>
+
+         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[380px] bg-cover relative "> 
+         
+          <img src={post14} alt="Social Media Post" />
+  
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post  </span>
+              
+          </div>
+         </div>
+
+         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[380px] bg-cover relative "> 
+         
+          <img src={post12} alt="Social Media Post" />
+  
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"> Social Media Post  </span>
+              
+          </div>
+         </div>
+
 
          <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
          shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
