@@ -3,27 +3,27 @@ import projectWp1 from '../assets/project/WP Project/project1.png'
 import projectWp2 from '../assets/project/WP Project/project2.png'
 import projectWp3 from '../assets/project/WP Project/project3.png'
 
-import projectCp1 from '../assets/project/Coding Project/project1.png'
-import projectCp2 from '../assets/project/Coding Project/project2.png'
-import projectCp3 from '../assets/project/Coding Project/project3.png'
+import projectCp1 from '../assets/project/Coding Project/project1.webp'
+import projectCp2 from '../assets/project/Coding Project/project2.webp'
+import projectCp3 from '../assets/project/Coding Project/project3.webp'
 
 
 
-import viLogo from '../assets/project/Design Projects/VI Logo.png'
-import glLogo from '../assets/project/Design Projects/GL-LOGO.png'
-import hbiLogo from '../assets/project/Design Projects/HBI-LOGO.png'
-import lbLogo from '../assets/project/Design Projects/lb-final-logo.png'
-import ltLogo from '../assets/project/Design Projects/LT-LOGO.png'
-import mdLogo from '../assets/project/Design Projects/MassifDesignLogo.png'
-import wlLogo from '../assets/project/Design Projects/wysiwyl-logo.png'
+import viLogo from '../assets/project/Design Projects/VI Logo.webp'
+import glLogo from '../assets/project/Design Projects/GL-LOGO.webp'
+import hbiLogo from '../assets/project/Design Projects/HBI-LOGO.webp'
+import lbLogo from '../assets/project/Design Projects/lb-final-logo.webp'
+import ltLogo from '../assets/project/Design Projects/LT-LOGO.webp'
+import mdLogo from '../assets/project/Design Projects/MassifDesignLogo.webp'
+import wlLogo from '../assets/project/Design Projects/wysiwyl-logo.webp'
 
-import zoomBg1 from '../assets/project/Design Projects/Zoom bg-1.jpg'
-import zoomBg2 from '../assets/project/Design Projects/Zoom bg-2.jpg'
-import zoomBg3 from '../assets/project/Design Projects/Zoom bg-3.jpg'
+import zoomBg1 from '../assets/project/Design Projects/Zoom bg-1.webp'
+import zoomBg2 from '../assets/project/Design Projects/Zoom bg-2.webp'
+import zoomBg3 from '../assets/project/Design Projects/Zoom bg-3.webp'
 
-import hodieMp1 from '../assets/project/Design Projects/Hoodie Mockup.jpg'
-import hodieMp2 from '../assets/project/Design Projects/Hoodie Mockup 2.jpg'
-import hodieMp3 from '../assets/project/Design Projects/Hoodie Mockup 3.jpg'
+import hodieMp1 from '../assets/project/Design Projects/Hoodie Mockup.webp'
+import hodieMp2 from '../assets/project/Design Projects/Hoodie Mockup 2.webp'
+import hodieMp3 from '../assets/project/Design Projects/Hoodie Mockup 3.webp'
 
 import post1 from '../assets/project/Design Projects/Posts (1).webp'
 import post2 from '../assets/project/Design Projects/Posts (2).webp'
@@ -202,7 +202,7 @@ const Work = () => {
         <p className="text-white font-extrabold ">  Design Projects </p>
         
       </div>
-      <h1 className='text-gray-400  font-extrabold my-4'> Logo : </h1>
+      <h1 className='text-gray-400  font-extrabold my-4'> Logos : </h1>
       
       <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4 ">
 

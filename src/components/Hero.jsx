@@ -1,5 +1,5 @@
 import React from 'react'
-import heroimage from '../assets/profile.jpg'
+import heroimage from '../assets/profile.webp'
 import { TypeAnimation } from 'react-type-animation'
 import { AiFillInstagram,AiFillGithub,AiFillLinkedin } from "react-icons/ai";
 
