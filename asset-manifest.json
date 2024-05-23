@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MmtLab-Portfolio/static/css/main.64b8ccd3.css",
-    "main.js": "/MmtLab-Portfolio/static/js/main.3aab81c6.js",
+    "main.css": "/MmtLab-Portfolio/static/css/main.d2a3cf0d.css",
+    "main.js": "/MmtLab-Portfolio/static/js/main.ec4de46c.js",
     "static/media/Wall-Art-Mockup-3.webp": "/MmtLab-Portfolio/static/media/Wall-Art-Mockup-3.50d6c4ca187eeaca056c.webp",
     "static/media/Wall-Art-Mockup-1.webp": "/MmtLab-Portfolio/static/media/Wall-Art-Mockup-1.1c4a77b6481334d72b49.webp",
     "static/media/Zoom bg-2.webp": "/MmtLab-Portfolio/static/media/Zoom bg-2.61b098d10999a9c0f63c.webp",
@@ -61,11 +61,11 @@
     "static/media/wysiwyl-logo.webp": "/MmtLab-Portfolio/static/media/wysiwyl-logo.d88af0752889649713d5.webp",
     "static/media/MassifDesignLogo.webp": "/MmtLab-Portfolio/static/media/MassifDesignLogo.d81b16c77c64133bd454.webp",
     "index.html": "/MmtLab-Portfolio/index.html",
-    "main.64b8ccd3.css.map": "/MmtLab-Portfolio/static/css/main.64b8ccd3.css.map",
-    "main.3aab81c6.js.map": "/MmtLab-Portfolio/static/js/main.3aab81c6.js.map"
+    "main.d2a3cf0d.css.map": "/MmtLab-Portfolio/static/css/main.d2a3cf0d.css.map",
+    "main.ec4de46c.js.map": "/MmtLab-Portfolio/static/js/main.ec4de46c.js.map"
   },
   "entrypoints": [
-    "static/css/main.64b8ccd3.css",
-    "static/js/main.3aab81c6.js"
+    "static/css/main.d2a3cf0d.css",
+    "static/js/main.ec4de46c.js"
   ]
 }
