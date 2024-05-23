@@ -27,7 +27,7 @@ const Skills = () => {
   return (
     <div className='border border-gray-600 bg-black text-gray-400  max-w-[1200px] mx-auto grid grid-cols-3 
                     md:grid-cols-7 md:gap-y-8 py-10
-                    place-items-center  '> 
+                    place-items-center mt-20'> 
 
         <h2 className="text-white text-xl md:text-4xl font-bold m-4">
             My <br />  Skills : <br />  
