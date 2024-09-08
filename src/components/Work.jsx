@@ -2,6 +2,8 @@ import React from 'react'
 import projectWp1 from '../assets/project/WP Project/project1.png'
 import projectWp2 from '../assets/project/WP Project/project2.png'
 import projectWp3 from '../assets/project/WP Project/project3.png'
+import projectWp4 from '../assets/project/WP Project/project4.png'
+
 
 import projectCp1 from '../assets/project/Coding Project/project1.webp'
 import projectCp2 from '../assets/project/Coding Project/project2.webp'
@@ -61,19 +63,17 @@ const Work = () => {
       <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
 
 
-         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+      <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
          shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
          h-[220px] bg-cover relative "> 
-
-         
-          <img src={projectWp1} alt="L'ébénisterie Web Site" />
+          <img src={projectWp4} alt="Luuxury Products Online Store" />
 
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
                           justify-center items-center">
-            <span className="text-2xl font-bold text-white tracking-wider">L'ébénisterie Web Site</span>
+            <span className="text-2xl font-bold text-white tracking-wider">Luuxury Products Store</span>
               <div className="pt-8 text-center">
-                <a href="https://www.l-ebenisterie.com/" target="_blank" rel="noopener noreferrer" >
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                <a href="https://luuxuryproducts.com/" target="_blank" rel="noopener noreferrer" >
+                  <button  className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     See Website 
                   </button>
                 </a>
@@ -81,24 +81,7 @@ const Work = () => {
           </div>
          </div>
 
-
-         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
-         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
-         h-[220px] bg-cover relative "> 
-          <img src={projectWp2} alt="HBI Web Site" />
-
-          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
-                          justify-center items-center" >
-            <span className="text-2xl font-bold text-white tracking-wider"> HBI Web Site</span>
-              <div className="pt-8 text-center">
-                <a href="https://hbimprovement.com/" target="_blank" rel="noopener noreferrer" >
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    See Website 
-                  </button>
-                </a>
-              </div>
-          </div>
-         </div>
+        
 
          <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
          shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
@@ -119,6 +102,45 @@ const Work = () => {
          </div>
 
          
+
+
+         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[220px] bg-cover relative "> 
+          <img src={projectWp2} alt="HBI Web Site" />
+
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center" >
+            <span className="text-2xl font-bold text-white tracking-wider"> HBI Web Site</span>
+              <div className="pt-8 text-center">
+                <a href="#" target="_blank" rel="noopener noreferrer" >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    See Website 
+                  </button>
+                </a>
+              </div>
+          </div>
+         </div>
+
+         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[220px] bg-cover relative "> 
+
+         
+          <img src={projectWp1} alt="L'ébénisterie Web Site" />
+
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider">L'ébénisterie Web Site</span>
+              <div className="pt-8 text-center">
+                <a href="#" target="_blank" rel="noopener noreferrer" >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    See Website 
+                  </button>
+                </a>
+              </div>
+          </div>
+         </div>
 
       </div> <br />
 
