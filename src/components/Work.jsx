@@ -41,6 +41,9 @@ import post11 from '../assets/project/Design Projects/Posts (11).webp'
 import post12 from '../assets/project/Design Projects/Posts (12).webp'
 import post13 from '../assets/project/Design Projects/Posts (13).webp'
 import post14 from '../assets/project/Design Projects/Posts (14).webp'
+import post15 from '../assets/project/Design Projects/Posts (15).webp'
+import post16 from '../assets/project/Design Projects/Posts (16).webp'
+
 
 
 import art1 from '..//assets/project/Design Projects/Wall-Art-Mockup-1.webp'
@@ -326,6 +329,35 @@ const Work = () => {
       <h1 className='text-gray-400  font-extrabold my-4'> Social Media Posts : </h1>
       
       <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4 ">
+
+
+
+      <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[380px] bg-cover relative "> 
+         
+          <img src={post16} alt="Social Media Post" />
+  
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"> Restaurant Social Media Post </span>
+              
+          </div>
+         </div>
+
+      <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
+         shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
+         h-[380px] bg-cover relative "> 
+         
+          <img src={post15} alt="Social Media Post" />
+  
+          <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col 
+                          justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider">Restaurant Social Media Post </span>
+              
+          </div>
+         </div>
+
 
       <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden
          shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center 
