@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MmtLab-Portfolio/static/css/main.d2a3cf0d.css",
-    "main.js": "/MmtLab-Portfolio/static/js/main.a021315f.js",
+    "main.css": "/MmtLab-Portfolio/static/css/main.da30859d.css",
+    "main.js": "/MmtLab-Portfolio/static/js/main.00f3fe34.js",
     "static/media/project4.png": "/MmtLab-Portfolio/static/media/project4.f3569fac9eee10f8ce55.png",
     "static/media/Wall-Art-Mockup-3.webp": "/MmtLab-Portfolio/static/media/Wall-Art-Mockup-3.50d6c4ca187eeaca056c.webp",
     "static/media/Wall-Art-Mockup-1.webp": "/MmtLab-Portfolio/static/media/Wall-Art-Mockup-1.1c4a77b6481334d72b49.webp",
@@ -9,6 +9,7 @@
     "static/media/Wall-Art-Mockup-2.webp": "/MmtLab-Portfolio/static/media/Wall-Art-Mockup-2.258060241c50ca92bee3.webp",
     "static/media/profile.webp": "/MmtLab-Portfolio/static/media/profile.957f3e4e37a6d78cb27e.webp",
     "static/media/Posts (5).webp": "/MmtLab-Portfolio/static/media/Posts (5).a32cb20aa68237fe3b49.webp",
+    "static/media/Posts (16).webp": "/MmtLab-Portfolio/static/media/Posts (16).a2e061c051df99d7b357.webp",
     "static/media/project1.png": "/MmtLab-Portfolio/static/media/project1.b2485f5fb803d3973ce5.png",
     "static/media/Zoom bg-1.webp": "/MmtLab-Portfolio/static/media/Zoom bg-1.9f31c5352659da60535b.webp",
     "static/media/Posts (9).webp": "/MmtLab-Portfolio/static/media/Posts (9).0b5615e003d5429c85fa.webp",
@@ -20,6 +21,7 @@
     "static/media/Posts (11).webp": "/MmtLab-Portfolio/static/media/Posts (11).3ce066488c740c72c64d.webp",
     "static/media/Posts (6).webp": "/MmtLab-Portfolio/static/media/Posts (6).14519529cfe141b7efbd.webp",
     "static/media/Zoom bg-3.webp": "/MmtLab-Portfolio/static/media/Zoom bg-3.e4ba4dd2718bdceb0eda.webp",
+    "static/media/Posts (15).webp": "/MmtLab-Portfolio/static/media/Posts (15).34442f16c1476bce4b29.webp",
     "static/media/Posts (8).webp": "/MmtLab-Portfolio/static/media/Posts (8).192a2914b8cab4fb9f42.webp",
     "static/media/Posts (12).webp": "/MmtLab-Portfolio/static/media/Posts (12).ded47c51795618318505.webp",
     "static/media/Posts (10).webp": "/MmtLab-Portfolio/static/media/Posts (10).66200a920d838c4875b4.webp",
@@ -62,11 +64,11 @@
     "static/media/wysiwyl-logo.webp": "/MmtLab-Portfolio/static/media/wysiwyl-logo.d88af0752889649713d5.webp",
     "static/media/MassifDesignLogo.webp": "/MmtLab-Portfolio/static/media/MassifDesignLogo.d81b16c77c64133bd454.webp",
     "index.html": "/MmtLab-Portfolio/index.html",
-    "main.d2a3cf0d.css.map": "/MmtLab-Portfolio/static/css/main.d2a3cf0d.css.map",
-    "main.a021315f.js.map": "/MmtLab-Portfolio/static/js/main.a021315f.js.map"
+    "main.da30859d.css.map": "/MmtLab-Portfolio/static/css/main.da30859d.css.map",
+    "main.00f3fe34.js.map": "/MmtLab-Portfolio/static/js/main.00f3fe34.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2a3cf0d.css",
-    "static/js/main.a021315f.js"
+    "static/css/main.da30859d.css",
+    "static/js/main.00f3fe34.js"
   ]
 }
