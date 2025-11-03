@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MmtLab-Portfolio/static/css/main.da30859d.css",
-    "main.js": "/MmtLab-Portfolio/static/js/main.00f3fe34.js",
+    "main.js": "/MmtLab-Portfolio/static/js/main.0bd65466.js",
     "static/media/project4.png": "/MmtLab-Portfolio/static/media/project4.f3569fac9eee10f8ce55.png",
     "static/media/Wall-Art-Mockup-3.webp": "/MmtLab-Portfolio/static/media/Wall-Art-Mockup-3.50d6c4ca187eeaca056c.webp",
     "static/media/Wall-Art-Mockup-1.webp": "/MmtLab-Portfolio/static/media/Wall-Art-Mockup-1.1c4a77b6481334d72b49.webp",
@@ -65,10 +65,10 @@
     "static/media/MassifDesignLogo.webp": "/MmtLab-Portfolio/static/media/MassifDesignLogo.d81b16c77c64133bd454.webp",
     "index.html": "/MmtLab-Portfolio/index.html",
     "main.da30859d.css.map": "/MmtLab-Portfolio/static/css/main.da30859d.css.map",
-    "main.00f3fe34.js.map": "/MmtLab-Portfolio/static/js/main.00f3fe34.js.map"
+    "main.0bd65466.js.map": "/MmtLab-Portfolio/static/js/main.0bd65466.js.map"
   },
   "entrypoints": [
     "static/css/main.da30859d.css",
-    "static/js/main.00f3fe34.js"
+    "static/js/main.0bd65466.js"
   ]
 }
