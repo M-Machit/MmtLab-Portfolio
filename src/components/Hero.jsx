@@ -37,7 +37,7 @@ const Hero = () => {
           </h1>
 
           <p className="text-white sm:text-lg my-6 lg:text-xl">
-          I'm a skilled web developer and graphic designer who specializes in creating captivating online experiences.
+          I'm a skilled <strong>Full Stack Developer </strong>  and <strong> Graphic Designer </strong> based in <strong> Germany</strong>, who specializes in creating captivating online experiences. <br />
           I also have expertise in crafting effective Facebook and TikTok ad campaigns that deliver results.
           </p>
 

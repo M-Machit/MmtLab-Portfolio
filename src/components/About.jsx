@@ -10,7 +10,7 @@ const About = () => {
             <div className="my-auto mx-6">
                 <h2 className="text-4xl font-bold mb-4 primary-color">About Me </h2>
                 <p className="text-base lg:text-lg">
-                Full Stack Developer | Adobe Creative Suite | Facebook & TikTok Ads | WordPress <br />
+                <strong>Full Stack Developer</strong> | <strong>WordPress</strong> | <strong>Adobe Creative Suite</strong> | <strong>Facebook & TikTok Ads.</strong> <br />
                 I'm Mohammed Machit, a dedicated and skilled Full Stack Developer with expertise in various technologies and a creative background in Adobe Photoshop, Illustrator, and Premier Pro. 
                 I specialize in developing Web sites and user-friendly web applications while leveraging my design skills to create visually appealing digital experiences.
                 </p>
